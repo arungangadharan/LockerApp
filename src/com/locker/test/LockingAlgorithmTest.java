@@ -1,16 +1,14 @@
 package com.locker.test;
 
-import static org.junit.Assert.*;
-
 import java.io.UnsupportedEncodingException;
 
-import org.junit.Test;
+
 
 import com.locker.LockingAlgorith;
 
 public class LockingAlgorithmTest {
 
-	@Test
+	
 	public void test() throws Exception {
 		
 		try {
